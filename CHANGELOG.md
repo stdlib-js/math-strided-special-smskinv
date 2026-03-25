@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-16)
+## Unreleased (2026-03-25)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`cd99fef`](https://github.com/stdlib-js/stdlib/commit/cd99fef661e7a5f6e600ee81295ec4dbc8501187) - **docs:** fix C examples [(#11135)](https://github.com/stdlib-js/stdlib/pull/11135) _(by anee3)_
 -   [`e514cd8`](https://github.com/stdlib-js/stdlib/commit/e514cd88083c5cfa4bbe539d9b92d64f44c42c8b) - **chore:** fix C lint errors [(#10981)](https://github.com/stdlib-js/stdlib/pull/10981) _(by Geo Daoyu)_
 
 </details>
@@ -36,9 +37,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Geo Daoyu
+-   anee3
 
 </section>
 
